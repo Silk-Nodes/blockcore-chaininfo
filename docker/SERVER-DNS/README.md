@@ -149,13 +149,13 @@ Set your service domain and the DNS server host accordingly (don't forget to set
 
 ```
 DnsAgent__Hosts__0__DnsHost=https://ns.blockcore.net
-DnsAgent__Hosts__0__Domain=btc.indexer.blockcore.net
+DnsAgent__Hosts__0__Domain=btc.blockcore-indexer.silknodes.io
 DnsAgent__Hosts__0__Port=9910
 DnsAgent__Hosts__0__Symbol=BTC
 DnsAgent__Hosts__0__Service=Indexer
 
 DnsAgent__Hosts__1__DnsHost=https://ns.blockcore.net
-DnsAgent__Hosts__1__Domain=city.indexer.blockcore.net
+DnsAgent__Hosts__1__Domain=city.blockcore-indexer.silknodes.io
 DnsAgent__Hosts__1__Port=9920
 DnsAgent__Hosts__1__Symbol=CITY
 DnsAgent__Hosts__1__Service=Indexer
@@ -181,8 +181,8 @@ DnsAgent__IpDiscoveryUrl=https://icanhazip.com/
 A Blockcore DNS server will be able to resolve domain names to the ip address where your services are running (i.e indexers, vault), if the ip address changes frequently (dynamicly allocated) the DNS agent will notify the dns servers of such changes to your ip address.  
 
 To use a Blockcore DNS server to resolve ip address  
-At the domain registrar and point the subdomain (i.e btc.indexer.blockcore.net) to resolve as an NS record and provide the domain of a Blockore DNS server  
+At the domain registrar and point the subdomain (i.e btc.blockcore-indexer.silknodes.io) to resolve as an NS record and provide the domain of a Blockore DNS server  
 
 For example:  
-btc.indexer.blockcore.net -> NS -> ns.blockcore.net
+btc.blockcore-indexer.silknodes.io -> NS -> ns.blockcore.net
 

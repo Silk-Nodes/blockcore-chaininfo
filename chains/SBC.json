@@ -38,8 +38,8 @@
    },
    "Explorer": {
       "Indexer": {
-         "ApiUrl": "https://sbc.indexer.blockcore.net/api",
-         "DocUrl": "https://sbc.indexer.blockcore.net/docs"
+         "ApiUrl": "https://sbc.blockcore-indexer.silknodes.io/api",
+         "DocUrl": "https://sbc.blockcore-indexer.silknodes.io/docs"
       },
       "Currency": {
          "ApiUrl": "https://api.coincap.io/v2/rates",

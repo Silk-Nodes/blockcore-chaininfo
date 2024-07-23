@@ -62,8 +62,8 @@
  },
   "Explorer": {
     "Indexer": {
-      "ApiUrl": "https://xds.indexer.blockcore.net/api",
-      "DocUrl": "https://xds.indexer.blockcore.net/docs"
+      "ApiUrl": "https://xds.blockcore-indexer.silknodes.io/api",
+      "DocUrl": "https://xds.blockcore-indexer.silknodes.io/docs"
     },
     "Currency": {
       "ApiUrl": "",

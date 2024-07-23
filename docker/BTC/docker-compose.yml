@@ -15,11 +15,11 @@ services:
     mem_limit: 8192m
     cpus: 2.000
     environment:
-      VIRTUAL_HOST: btc.indexer.blockcore.net
+      VIRTUAL_HOST: btc.blockcore-indexer.silknodes.io
       VIRTUAL_PORT: 9910
       VIRTUAL_PROTO: http
       VIRTUAL_NETWORK: proxy
-      LETSENCRYPT_HOST: btc.indexer.blockcore.net
+      LETSENCRYPT_HOST: btc.blockcore-indexer.silknodes.io
       LETSENCRYPT_EMAIL: admin@blockcore.net
       ASPNETCORE_URLS: http://+:9910
     command: ["--chain=BTC"]

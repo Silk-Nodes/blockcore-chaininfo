@@ -14,11 +14,11 @@ services:
     mem_limit: 1024m
     cpus: 1.00
     environment:
-      VIRTUAL_HOST: tcrs.indexer.blockcore.net
+      VIRTUAL_HOST: tcrs.blockcore-indexer.silknodes.io
       VIRTUAL_PORT: 9910
       VIRTUAL_PROTO: http
       VIRTUAL_NETWORK: proxy
-      LETSENCRYPT_HOST: tcrs.indexer.blockcore.net
+      LETSENCRYPT_HOST: tcrs.blockcore-indexer.silknodes.io
       LETSENCRYPT_EMAIL: admin@blockcore.net
       ASPNETCORE_URLS: https://+:9910
       Logging__LogLevel__Default: Debug

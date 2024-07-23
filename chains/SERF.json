@@ -62,8 +62,8 @@
  },
   "Explorer": {
     "Indexer": {
-      "ApiUrl": "https://serf.indexer.blockcore.net/api",
-      "DocUrl": "https://serf.indexer.blockcore.net/docs"
+      "ApiUrl": "https://serf.blockcore-indexer.silknodes.io/api",
+      "DocUrl": "https://serf.blockcore-indexer.silknodes.io/docs"
     },
     "Currency": {
       "ApiUrl": "",

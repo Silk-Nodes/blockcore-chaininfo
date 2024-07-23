@@ -75,8 +75,8 @@
   },
   "Explorer": {
     "Indexer": {
-      "ApiUrl": "https://x42.indexer.blockcore.net/api",
-      "DocUrl": "https://x42.indexer.blockcore.net/docs"
+      "ApiUrl": "https://x42.blockcore-indexer.silknodes.io/api",
+      "DocUrl": "https://x42.blockcore-indexer.silknodes.io/docs"
     },
     "Currency": {
       "ApiUrl": "https://api.coincap.io/v2/rates",

@@ -59,8 +59,8 @@
  },
   "Explorer": {
     "Indexer": {
-      "ApiUrl": "https://homecoin.indexer.blockcore.net/api",
-      "DocUrl": "https://homecoin.indexer.blockcore.net/docs"
+      "ApiUrl": "https://homecoin.blockcore-indexer.silknodes.io/api",
+      "DocUrl": "https://homecoin.blockcore-indexer.silknodes.io/docs"
     },
     "Currency": {
       "ApiUrl": "",

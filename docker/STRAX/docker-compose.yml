@@ -18,11 +18,11 @@ services:
     mem_limit: 4096m
     cpus: 2.50
     environment:
-      VIRTUAL_HOST: strax.indexer.blockcore.net
+      VIRTUAL_HOST: strax.blockcore-indexer.silknodes.io
       VIRTUAL_PORT: 9910
       VIRTUAL_PROTO: http
       VIRTUAL_NETWORK: proxy
-      LETSENCRYPT_HOST: strax.indexer.blockcore.net
+      LETSENCRYPT_HOST: strax.blockcore-indexer.silknodes.io
       LETSENCRYPT_EMAIL: admin@blockcore.net
       ASPNETCORE_URLS: https://+:9910
       Logging__LogLevel__Default: Debug

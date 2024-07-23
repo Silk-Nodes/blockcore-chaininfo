@@ -75,8 +75,8 @@ What domain names your explorer and indexer will respond to, is controlled by th
 
 ```yml
     environment:
-      VIRTUAL_HOST: city.indexer.blockcore.net
-      LETSENCRYPT_HOST: city.indexer.blockcore.net
+      VIRTUAL_HOST: city.blockcore-indexer.silknodes.io
+      LETSENCRYPT_HOST: city.blockcore-indexer.silknodes.io
       LETSENCRYPT_EMAIL: admin@blockcore.net
 ```
 

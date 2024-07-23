@@ -58,8 +58,8 @@
  },
   "Explorer": {
     "Indexer": {
-      "ApiUrl": "https://tstrax.indexer.blockcore.net/api",
-      "DocUrl": "https://tstrax.indexer.blockcore.net/docs"
+      "ApiUrl": "https://tstrax.blockcore-indexer.silknodes.io/api",
+      "DocUrl": "https://tstrax.blockcore-indexer.silknodes.io/docs"
     },
     "Currency": {
       "ApiUrl": "",

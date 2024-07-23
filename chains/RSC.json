@@ -42,8 +42,8 @@
    },
    "Explorer": {
       "Indexer": {
-         "ApiUrl": "https://rsc.indexer.blockcore.net/api",
-         "DocUrl": "https://rsc.indexer.blockcore.net/docs"
+         "ApiUrl": "https://rsc.blockcore-indexer.silknodes.io/api",
+         "DocUrl": "https://rsc.blockcore-indexer.silknodes.io/docs"
       },
       "Currency": {
          "ApiUrl": "https://api.coincap.io/v2/rates",

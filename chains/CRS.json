@@ -34,8 +34,8 @@
  },
  "Explorer": {
   "Indexer": {
-   "ApiUrl": "https://crs.indexer.blockcore.net/api",
-   "DocUrl": "https://crs.indexer.blockcore.net/docs"
+   "ApiUrl": "https://crs.blockcore-indexer.silknodes.io/api",
+   "DocUrl": "https://crs.blockcore-indexer.silknodes.io/docs"
   },
   "Currency": {
      "ApiUrl": "https://api.coincap.io/v2/rates",

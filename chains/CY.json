@@ -38,8 +38,8 @@
    },
    "Explorer": {
       "Indexer": {
-         "ApiUrl": "https://cy.indexer.blockcore.net/api",
-         "DocUrl": "https://cy.indexer.blockcore.net/docs"
+         "ApiUrl": "https://cy.blockcore-indexer.silknodes.io/api",
+         "DocUrl": "https://cy.blockcore-indexer.silknodes.io/docs"
       },
       "Currency": {
          "ApiUrl": "",

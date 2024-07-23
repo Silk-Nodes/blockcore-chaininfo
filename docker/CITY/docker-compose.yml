@@ -154,11 +154,11 @@ services:
     mem_limit: 4096m
     cpus: 2.000
     environment:
-      VIRTUAL_HOST: city.indexer.blockcore.net
+      VIRTUAL_HOST: city.blockcore-indexer.silknodes.io
       VIRTUAL_PORT: 9910
       VIRTUAL_PROTO: http
       VIRTUAL_NETWORK: proxy
-      LETSENCRYPT_HOST: city.indexer.blockcore.net
+      LETSENCRYPT_HOST: city.blockcore-indexer.silknodes.io
       LETSENCRYPT_EMAIL: admin@blockcore.net
       ASPNETCORE_URLS: http://+:9910
       Logging__LogLevel__Default: Debug
